@@ -1,1 +1,6 @@
 hi this is second version of code
+
+:include stdio.h
+print f
+insert this code
+
